@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakedruth
 - 👀 I’m interested in making games!
-- 🌱 I’m currently learning wave funciton collapse
+- 🌱 I’m currently working on a 3d top-down zelda inspired game
 - 📫 How to reach me: Visit my website [HERE](https://jakedruth.com/contact.html)
 
 <!---
